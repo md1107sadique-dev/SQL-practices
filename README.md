@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0175-combine-two-tables/) | Easy |
+| [0183-customers-who-never-order](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0577-employee-bonus/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 <!---LeetCode Topics End-->
