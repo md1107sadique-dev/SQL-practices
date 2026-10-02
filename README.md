@@ -13,28 +13,5 @@
 | [0595-big-countries](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1148-article-views-i/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1484-group-sold-products-by-the-date/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
-## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0451-sort-characters-by-frequency/) | Medium |
+
 <!---LeetCode Topics End-->
