@@ -13,6 +13,7 @@
 | [0595-big-countries](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0595-big-countries/) | Easy |
 | [1075-project-employees-i](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1148-article-views-i/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
