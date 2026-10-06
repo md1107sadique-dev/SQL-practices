@@ -12,6 +12,7 @@
 | [0577-employee-bonus](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/md1107sadique-dev/SQL-practices/tree/main/0595-big-countries/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1148-article-views-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/md1107sadique-dev/SQL-practices/tree/main/1211-queries-quality-and-percentage/) | Easy |
